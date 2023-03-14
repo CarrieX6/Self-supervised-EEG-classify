@@ -4,7 +4,8 @@ Tensorflow implementation for "A Novel Solution for EEG-based Emotion Recognitio
 
 run 'python seed_train.py' in your terminal
 
-#About Dataset
+# About Dataset
+
 The SJTU Affective EEG Dataset (SEED) is a collection of EEG datasets provided by BCMI Labs, led by Professor Baoliang Lv. The official website of the dataset and the address to obtain it:
 
 http://bcmi.sjtu.edu.cn/~seed
