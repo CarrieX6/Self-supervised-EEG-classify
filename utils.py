@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 15 20:49:02 2020
-
-@author: pritam
-"""
-
 import os
 # import tensorflow as tf
 import tensorflow.compat.v1 as tf
