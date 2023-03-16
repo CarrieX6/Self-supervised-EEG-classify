@@ -10,8 +10,16 @@ The SJTU Affective EEG Dataset (SEED) is a collection of EEG datasets provided b
 
 http://bcmi.sjtu.edu.cn/~seed
 
-# Cite this
+# Citation
+If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
-If the code is useful for you, kindly consider referencing our article:
-
-Xie, Zhuofan, Mingzhang Zhou, and Haixin Sun. "A Novel Solution for EEG-based Emotion Recognition." 2021 IEEE 21st International Conference on Communication Technology (ICCT). IEEE, 2021.
+'''
+@inproceedings{xie2021novel,
+  title={A Novel Solution for EEG-based Emotion Recognition},
+  author={Xie, Zhuofan and Zhou, Mingzhang and Sun, Haixin},
+  booktitle={2021 IEEE 21st International Conference on Communication Technology (ICCT)},
+  pages={1134--1138},
+  year={2021},
+  organization={IEEE}
+}
+'''
